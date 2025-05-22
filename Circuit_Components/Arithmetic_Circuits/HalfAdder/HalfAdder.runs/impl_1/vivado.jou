@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu May 22 23:13:47 2025
+# Process ID: 35236
+# Current directory: C:/Users/meshi/HalfAdder/HalfAdder.runs/impl_1
+# Command line: vivado.exe -log HalfAdder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source HalfAdder.tcl -notrace
+# Log file: C:/Users/meshi/HalfAdder/HalfAdder.runs/impl_1/HalfAdder.vdi
+# Journal file: C:/Users/meshi/HalfAdder/HalfAdder.runs/impl_1\vivado.jou
+# Running On: shivanshu, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 8, Host memory: 16869 MB
+#-----------------------------------------------------------
+source HalfAdder.tcl -notrace
