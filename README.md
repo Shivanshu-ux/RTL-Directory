@@ -4,14 +4,14 @@ This repository contains a collection of digital logic circuits and related comp
 
 ## Table of Contents
 - [Introduction](/Introduction)
-- [Circuit Components](/circuit-components)
-  - [Arithmetic Circuits](/circuit-components/arithmetic-circuits)
-  - [Combinational Circuit Building Blocks](#combinational-circuit-building-blocks)
-  - [Counters](#counters)
-  - [Counters Applications](#counters-applications)
-  - [Sequential Elements](#sequential-elements)
-  - [Finite State Machines (FSMs)](#finite-state-machines-fsms)
-  - [Finite State Machine Applications](#finite-state-machine-applications)
+- [Circuit Components](/Circuit_Components)
+  - [Arithmetic Circuits](/Circuit_Components/Arithmetic_Circuits)
+  - [Combinational Circuit Building Blocks](/Circuit_Components/Combinational_Circuit)
+  - [Counters](/Circuit_Components/Counters)
+  - [Counters Applications](/Circuit_Components/Counters_Application)
+  - [Sequential Elements](/Circuit_Components/Sequential_Blocks)
+  - [Finite State Machines (FSMs)](/Circuit_Components/Finite_State_Machine)
+  - [Finite State Machine Applications](/Circuit_Components/Finite_State_Machine_Applications)
 
 ## Introduction
 
