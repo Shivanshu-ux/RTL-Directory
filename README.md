@@ -3,9 +3,9 @@
 This repository contains a collection of digital logic circuits and related components. These are fundamental building blocks for digital systems, widely used in hardware design and digital electronics. Below is an overview of the key components and circuits included.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Circuit Components](#circuit-components)
-  - [Arithmetic Circuits](#arithmetic-circuits)
+- [Introduction](/introduction)
+- [Circuit Components](/circuit-components)
+  - [Arithmetic Circuits](/circuit-components/arithmetic-circuits)
   - [Combinational Circuit Building Blocks](#combinational-circuit-building-blocks)
   - [Counters](#counters)
   - [Counters Applications](#counters-applications)
