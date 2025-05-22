@@ -20,13 +20,14 @@ This repository serves as a resource for digital circuits' main components. The 
 ## Circuit Components
 
 ### Arithmetic Circuits
-- Adders (Half & Full)
-- Subtractors (Half & Full)
-- 4-Bit Ripple Carry Adder
-- Carry Look Ahead Adder
+- [Half Adder](/Circuit_Components/Arithmetic_Circuits/HalfAdder)
+- [Full Adder](/Circuit_Components/Arithmetic_Circuits/FullAdder)
+- [Subtractor](/Circuit_Components/Arithmetic_Circuits/Subtractor)
+- [4-Bit Ripple Carry Adder](/Circuit_Components/Arithmetic_Circuits/RCA)
+- [Carry Look Ahead Adder](/Circuit_Components/Arithmetic_Circuits/CLA)
 - 4-Bit Adder Subtractor
-- Array Multiplier
-- Booth Multiplier
+- [Array Multiplier](/Circuit_Components/Arithmetic_Circuits/ArrayMultiplier)
+- [Booth Multiplier](/Circuit_Components/Arithmetic_Circuits/BoothMultiplier)
 - Wallace Tree Multiplier
 
 ### Combinational Circuit Building Blocks
@@ -65,8 +66,8 @@ This repository serves as a resource for digital circuits' main components. The 
 - Shift Registers
 
 ### Counters
-- Synchronous Counters
-- Asynchronous Counters
+- [Synchronous Counters](/Circuit_Components/Counters/SyncCounter)
+- [Asynchronous Counters](/Circuit_Components/Counters/Asynchronous_C)
 - Up/Down Counters
 - Mod Counter
 
